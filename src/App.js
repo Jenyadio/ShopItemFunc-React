@@ -1,6 +1,6 @@
 import React from 'react'
 import ShopItemFunc from './Components/ShopItemFunc';
-import './css/style.css'
+import './styles/App.css'
 
 function App() {
 
